@@ -2,7 +2,6 @@ This plugin lets you easily see errors and warnings in the Maya console.
 Tested on Maya 2024+
 
 ![image](https://github.com/hannesdelbeke/maya_script_editor_highlighter/assets/3758308/4f15a866-1d87-45a5-9cf6-e779a4bf17ee)  
-It's quite primitive, e.g. the line `// https://www.autodesk.com/maya-arnold-not-available-error` will be colored as an error.
 
 ### Install
 1. Either;  
