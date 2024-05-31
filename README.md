@@ -1,4 +1,6 @@
-This plugin lets you easily see errors and warnings in the Maya console.  
+This plugin lets you easily see errors, tracebacks, warnings and debug messages in the Maya console.  
+
+Improved from forks for performance, unloading and better matching.
 Tested on Maya 2024+
 
 ![image](https://github.com/hannesdelbeke/maya_script_editor_highlighter/assets/3758308/4f15a866-1d87-45a5-9cf6-e779a4bf17ee)  
