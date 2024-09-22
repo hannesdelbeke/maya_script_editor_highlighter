@@ -5,7 +5,7 @@ Tested on Maya 2024 (PySide2) & Maya 2026 (PySide6)
 
 ![image](https://github.com/hannesdelbeke/maya_script_editor_highlighter/assets/3758308/4f15a866-1d87-45a5-9cf6-e779a4bf17ee)  
 
-### Plugget Install
+### Install this plugin using plugget (recommended)
 If you have [Maya Plugget qt](https://github.com/plugget/plugget-qt-maya-plugin) installed, you can 1 click install, just search & install `script_editor_highlighter`.  
 
 ### Manual Install
